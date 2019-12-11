@@ -43,7 +43,7 @@ def naming_system
       }
     }
   }
-    
+  portion_1_hash[sub_category][sub_category][sub_category][sub_category][sub_category] = "Genus"  
   
   # Remember:
   #  Kingdom
