@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  naming_system = {
+  portion_1_hash = {
     :label => "Kingdom",
     :sub_category => {
       :label => "Phylum",
